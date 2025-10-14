@@ -33,6 +33,4 @@ python3 mqtt_dummy_pub.py
 ➡️ Kirim ke 'iot/sensor/data': {"timestamp": "2025-10-04T23:52:57.149739", "temperature": 29.79, "humidity": 86, "pressure": 990.51}
 ➡️ Kirim ke 'iot/sensor/data': {"timestamp": "2025-10-04T23:53:02.156396", "temperature": 27.41, "humidity": 57, "pressure": 994.31}
 ➡️ Kirim ke 'iot/sensor/data': {"timestamp": "2025-10-04T23:53:07.161604", "temperature": 33.15, "humidity": 65, "pressure": 991.81}
-^C
-Publisher dihentikan.
 ```
